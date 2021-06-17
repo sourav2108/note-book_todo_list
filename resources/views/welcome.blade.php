@@ -38,7 +38,8 @@
             @endif
 
             <div class="contaner">
-                <h1 style="color: midnightblue">Welcome</h1>
+                <h1 style="color: midnightblue"> Hello, Welcome in our page </h1>
+                <h6 style="color: midnightblue; padding-left: 100px">For acces please login or signup</h6>
             </div>
             {{-- <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
